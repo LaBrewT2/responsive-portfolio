@@ -2,15 +2,29 @@ body{
     background-color: bisque;
 }
 
-.alert {
-
-}
 
 h1{
-
+    font-family: 'Oswald', sans-serif;
 }
 
 p{
+    font-family: 'Raleway', sans-serif;
 
-    
+}
+
+a{
+    font-family: 'Raleway', sans-serif;
+    font-weight:500 ;
+}
+
+form{
+    position: relative;
+    left: 60px;
+
+}
+
+#btn{
+    position: relative;
+    left:60px;
+    top: 40px;
 }
